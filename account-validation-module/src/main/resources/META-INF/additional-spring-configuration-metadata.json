@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "GET_ALL_USER_ACCOUNTS",
+      "type": "java.lang.String",
+      "description": "Description for GET_ALL_USER_ACCOUNTS."
+    },
+    {
+      "name": "GET_USER_INFORMATION_URL",
+      "type": "java.lang.String",
+      "description": "Description for GET_USER_INFORMATION_URL."
+    },
+    {
+      "name": "GET_ALL_ACCOUNT_STATEMENTS",
+      "type": "java.lang.String",
+      "description": "Description for GET_ALL_ACCOUNT_STATEMENTS."
+    },
+    {
+      "name": "GET_ALL_USERS_URL",
+      "type": "java.lang.String",
+      "description": "Description for GET_ALL_USERS_URL."
+    }
+  ] }

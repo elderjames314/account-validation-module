@@ -1,4 +1,4 @@
-package com.example.accountvalidationmodule;
+package com.squadio.accountvalidationmodule;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

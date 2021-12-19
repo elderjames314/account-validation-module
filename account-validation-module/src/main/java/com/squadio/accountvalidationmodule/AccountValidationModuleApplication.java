@@ -1,4 +1,4 @@
-package com.example.accountvalidationmodule;
+package com.squadio.accountvalidationmodule;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
